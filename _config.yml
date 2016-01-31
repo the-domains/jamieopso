@@ -1,7 +1,7 @@
 name: JamieOpso
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.75361
+layout_spectrum: 0.49639
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#b78d01'
   brandStrength: 0.40657027205452323
   lightness: 0.259806934511289
-  saturation: 0.36827480932697654
+  saturation: 0.5
   rhythmicContrast: 0.4861275313887745
 purpose: []
