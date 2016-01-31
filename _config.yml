@@ -1,7 +1,7 @@
 name: JamieOpso
 favicon: null
-layout_spectrum: 0.011377774178981781
-typography_spectrum: 0.9937408259138465
+layout_spectrum: 0
+typography_spectrum: 0.75361
 cta:
   domain: null
   bucket: null
